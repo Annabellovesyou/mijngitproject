@@ -1,0 +1,7 @@
+# node / tooling
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+.vscode/
